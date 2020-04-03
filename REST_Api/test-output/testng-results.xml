@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5358" started-at="2020-04-03T17:59:29Z" finished-at="2020-04-03T17:59:35Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5358" started-at="2020-04-03T17:59:29Z" finished-at="2020-04-03T17:59:35Z">
+      <class name="Parameter_in_RestApi.Form_Param">
+        <test-method status="PASS" signature="fetch_Data_By_Param()[pri:0, instance:Parameter_in_RestApi.Form_Param@1810399e]" name="fetch_Data_By_Param" duration-ms="5334" started-at="2020-04-03T23:29:29Z" finished-at="2020-04-03T23:29:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fetch_Data_By_Param -->
+      </class> <!-- Parameter_in_RestApi.Form_Param -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
